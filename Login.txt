@@ -1,2 +1,1 @@
-UserName=DivyaTeja
-Pass=Pass2
+UserName=DivyaTejaLast
